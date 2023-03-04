@@ -1,0 +1,30 @@
+#File extensions
+*.csproj
+*.sln
+*.vsconfig
+*.meta
+*.unitypackage
+
+#Folders
+UserSettings/
+Temp/
+ProjectSettings/
+Packages/
+obj/
+Logs/
+Library/
+
+#Folders in Assets
+/Assets/AC/
+/Assets/Animation/
+/Assets/Materials/
+/Assets/Models/
+/Assets/Package/
+/Assets/Plugins/
+/Assets/Prefabs/
+/Assets/Resources/
+/Assets/Scenes/
+/Assets/Sripts/CozyPackages/
+/Assets/Sprites/
+/Assets/Textures/
+
